@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CottyMeta
-- 👀 I’m interested in participating blockchain projects
+- 👀 I’m currently an architect, practicing VR games and experience developement but heavily interested blockchain based projects
 - 🌱 I’m currently learning the Web3 space
 - 💞️ I’m looking to collaborate on various Web3 developments
 - 📫 How to reach me ...
